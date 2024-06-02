@@ -13,6 +13,14 @@ sudo docker-compose ps
 sudo docker-compose logs -f
 sudo docker-compose logs -f xzs-java
 
+考试
+考试模拟
+exam
+在线问答系统
+答题考试
+在线考试
+onlineexam
+
 https://xzs.7otech.com
 
 http://82.157.54.206:8010
