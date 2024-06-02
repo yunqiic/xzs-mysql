@@ -11,6 +11,8 @@ sudo docker-compose ps
 sudo docker-compose logs -f
 sudo docker-compose logs -f xzs-java
 
+https://xzs.7otech.com
+
 http://82.157.54.206:8010
 http://82.157.54.206:8010/student
 student
