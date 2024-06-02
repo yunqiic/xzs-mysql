@@ -1,0 +1,11 @@
+sudo docker-compose ps
+  Name                 Command                 State                    Ports
+-------------------------------------------------------------------------------------------
+xzs-java    /bin/bash -c java -Duser.t ...   Restarting
+xzs-mysql   docker-entrypoint.sh mysqld      Up           0.0.0.0:3310->3306/tcp, 33060/tcp
+
+sudo docker-compose ps
+  Name                 Command               State                 Ports
+--------------------------------------------------------------------------------------
+xzs-java    /bin/bash -c java -Duser.t ...   Up      0.0.0.0:8010->8000/tcp
+xzs-mysql   docker-entrypoint.sh mysqld      Up      0.0.0.0:3310->3306/tcp, 33060/tcp
