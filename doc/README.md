@@ -1,6 +1,6 @@
 ```shell
 cd source/xzs
-mvn package
+mvn clean package
 cd ../../
 cp source/xzs/target/xzs-3.9.0.jar docker1/release 
 
