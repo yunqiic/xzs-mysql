@@ -633,7 +633,7 @@ import{_ as e,o as i,c as n,e as u}from"./app.1da09039.js";const l={},d=u(`<h1 i
                 &quot;userId&quot;: 2,  //用户id
                 &quot;userName&quot;: &quot;admin&quot;,  //用户名
                 &quot;realName&quot;: &quot;管理员&quot;, //真实姓名
-                &quot;content&quot;: &quot;admin 登录了学之思开源考试系统&quot;, //日志内容
+                &quot;content&quot;: &quot;admin 登录了冬青开源考试系统&quot;, //日志内容
                 &quot;createTime&quot;: &quot;2021-08-24 20:05:02&quot; //创建时间
             }
         ]

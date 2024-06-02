@@ -248,7 +248,7 @@ import{_ as e,o as i,c as n,e as u}from"./app.1da09039.js";const d={},s=u(`<h1 i
             &quot;userId&quot;: 1, //用户id
             &quot;userName&quot;: &quot;student&quot;, //用户名
             &quot;realName&quot;: &quot;学生&quot;, //真实姓名
-            &quot;content&quot;: &quot;student 登录了学之思开源考试系统&quot;, //日志内容
+            &quot;content&quot;: &quot;student 登录了冬青开源考试系统&quot;, //日志内容
             &quot;createTime&quot;: &quot;2021-09-24 21:52:05&quot; //创建时间
         }
     ]
