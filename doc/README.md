@@ -6,6 +6,8 @@ cp source/xzs/target/xzs-3.9.0.jar docker1/release
 
 cd docker1/
 sudo docker-compose up -d
+sudo docker-compose stop xzs-java
+sudo docker-compose start xzs-java
 sudo docker-compose down
 sudo docker-compose ps
 sudo docker-compose logs -f
